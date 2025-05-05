@@ -1,0 +1,9 @@
+venv/
+env/
+.venv/
+virtualenv/
+
+.vscode/
+.idea/
+*.swp
+*.swo
