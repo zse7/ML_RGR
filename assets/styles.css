@@ -1,0 +1,93 @@
+html, body, .stApp, .main, .block-container {
+    background-color: #4f4f4f !important;
+}
+
+.title {
+    color: #ff7e05;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.subtitle {
+    color: #ffac05;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.info {
+    font-size: 18px;
+    color: #fac761;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.photo {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.caption {
+    color: #aaaaaa;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.info-card {
+    background-color: #3f3f3f;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+}
+    
+.section {
+    background-color: #3f3f3f;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;  
+}
+
+.input-section {
+    background-color: #3f3f3f;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+}
+
+.result-safe {
+    font-size: 20px;
+    color: #00ff00;
+    text-align: center;
+    margin-top: 20px;
+}
+    
+.result-fraud {
+    font-size: 20px;
+    color: #ff4500;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.selectbox {
+    background-color: #3f3f3f;
+    color: #fac761;
+    padding: 10px;
+    border-radius: 8px;
+}
+    
+section[data-testid="stSidebar"] {
+    background-color: #707070;
+}
+
+.file-uploader-label {
+color: #fac761;
+font-weight: bold;
+font-size: 18px;
+}
