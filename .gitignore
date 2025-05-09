@@ -2,6 +2,7 @@ venv/
 env/
 .venv/
 virtualenv/
+catboost_info/
 
 .vscode/
 .idea/
