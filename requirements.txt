@@ -1,8 +1,8 @@
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-catboost
-tensorflow
+streamlit==1.45.1
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.2
+matplotlib==3.8.3
+seaborn==0.13.2
+catboost==1.2.8
+tensorflow==2.15.0
